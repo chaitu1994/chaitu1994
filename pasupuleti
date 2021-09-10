@@ -2,11 +2,4 @@ Hi there are five steps involved in pushing git to github
 git init: it instalise a repositary
 git add :its an stagig directory
 git status -v :it shows the status 
-git commit -m "  " there we commit any changes we make
-git remote add url 
-git branch -M main
-git push orign main
-it asks you to enter user id and password
-we need to create an branch 
-jcnkj
-c
+git
