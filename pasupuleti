@@ -3,3 +3,4 @@ git init: it instalise a repositary
 git add :its an stagig directory
 git status -v :it shows the status 
 git
+these are the final steps
